@@ -23,8 +23,8 @@ out_of_wings=total_width/2+ext_circle_diam/2+2*int_circle_diam;
 // projection = true allows dxf export
 // projection = false for the 3d model
 // at this time OpenSCAD cannot export multiple layers / colors, so the wings numbers are printed outside: you have to MANUALLY take the numbers back on the wing in the dxf.
-//draw(projection=false);
-draw(projection=true);
+draw(projection=false);
+//draw(projection=true);
 
 // function that gives the angle considering the position of the current level 0 < x < 1
 //
