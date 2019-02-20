@@ -1,5 +1,7 @@
 # helicone
-OpenSCAD project to create a parametric helicone
+This is an OpenSCAD project to create a parametric helicone.
+see https://youtu.be/4uZ58fo3btg
+also on thingiverse https://www.thingiverse.com/thing:3440663
 
 To create an helicone:
 - find an axis
@@ -15,3 +17,9 @@ To create an helicone:
  What I did is that I drilled holes throughout the axis at the top and the bottom and then put some paperclip to hold everything together ;)
 
  that's it, have fun !
+
+Improvements :
+- rework the openscad file to clean it
+- put an option to see position 2
+- put an option to make an animation
+- better optimize the space on the lasercut
